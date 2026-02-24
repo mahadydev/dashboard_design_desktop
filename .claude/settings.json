@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(__NEW_LINE_e8fa8755e60b0b39__ cp /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/widgets/sidebar.dart /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/screens/screen1/widgets/sidebar.dart)",
+      "Bash(__NEW_LINE_e8fa8755e60b0b39__ cp /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/widgets/welcome_banner.dart /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/screens/screen1/widgets/welcome_banner.dart)",
+      "Bash(__NEW_LINE_e8fa8755e60b0b39__ cp /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/widgets/task_card.dart /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/screens/screen1/widgets/task_card.dart)",
+      "Bash(__NEW_LINE_e8fa8755e60b0b39__ cp /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/widgets/activities_section.dart /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib/screens/screen1/widgets/activities_section.dart)",
+      "Bash(/Users/mahadydev/Developments/Flutter/SDK/flutter_3.41.2/bin/flutter analyze --no-fatal-infos /Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop)"
+    ],
+    "additionalDirectories": [
+      "/Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop/lib",
+      "/Users/mahadydev/Developments/Flutter/Projects/theme",
+      "/Users/mahadydev/Developments/Flutter/Projects/dashboard_design_desktop"
+    ]
+  }
+}
